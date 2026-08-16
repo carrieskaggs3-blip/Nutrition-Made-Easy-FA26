@@ -1,14 +1,2 @@
 # Course Files
-
-Add PowerPoints, PDFs, handouts, and worksheets to this folder.
-
-Anything committed here appears automatically on the Course Files page of the app,
-on the "Posted course files" tab, where every student can preview or download it.
-
-Notes:
-- Keep each file under about 25 MB.
-- PowerPoint and Word files download rather than preview. Export slides to PDF if you
-  want students to read them in the browser.
-- Use filenames without spaces, for example Week3_Macronutrients.pdf
-- This folder is public if the repository is public. Do not post exam keys, student
-  information, or copyrighted textbook or ATI content.
+<img width="1024" height="1536" alt="ChatGPT Image Aug 16, 2026, 03_36_46 PM" src="https://github.com/user-attachments/assets/94b5a4ec-26c8-492a-86e5-4b6cf2edc746" />
